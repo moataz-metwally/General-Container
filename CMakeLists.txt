@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(symbolic_differentiation)
+project(General_Container)
 
 
 add_executable(main src/main.cpp)
